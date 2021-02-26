@@ -1,0 +1,13 @@
+The percentage of voters voting for candidate 1 is 50.188
+The percentage of voters voting for candidate 2 is 49.812
+The percentage of voters voting for candidate 1 that are male is 49.99601498366143
+The percentage of voters voting for candidate 1 that are female is 50.00398501633857
+The percentage of voters voting for candidate 2 that are male is 49.83538103268288
+The percentage of voters voting for candidate 2 that are female is 50.16461896731711
+
+The number of votes for candidate 1 based on race are: 
+{'W': 6382, 'H': 6195, 'B': 6216, 'A': 6301}
+The number of votes for candidate 2 based on race are: 
+{'A': 2846, 'B': 2677, 'W': 16565, 'H': 2818}
+The number of votes casted based on different issues is : 
+{'Gun-control': 2857, 'Black-Lives-Matter': 2680, 'Economy': 5910, 'Healthcare': 2801, 'Coronavirus': 2729, 'Pro-choice': 2815, 'Against': 5843, 'Climate-change': 2791, 'Defund-the-police': 2830, 'Gun-policy': 3139, 'QAnon': 3093, 'Riots': 3175, 'Blue-Lives-Matter': 3083, 'Pro-life': 3159, 'Immigration': 3095}
